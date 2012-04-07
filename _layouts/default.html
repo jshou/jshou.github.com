@@ -2,11 +2,21 @@
     <head>
         <title>{{page.title}}</title>
         <link href='http://fonts.googleapis.com/css?family=Crushed|Noticia+Text' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="/css/globals.css" />
+        <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+        <link rel="stylesheet" type="text/css" href="/css/mobile.css" />
+        <link rel="stylesheet" type="text/css" href="/css/grid.css" />
         <link rel="stylesheet" type="text/css" href="/css/style.css" />
     </head>
     <body>
-        <div class="content">
-            {{content}}
+        <div class="container">
+            <div class="row">
+
+                <div class="twelve columns">
+                    {{content}}
+                </div>
+
+            </div>
         </div>
     </body>
 </html>
