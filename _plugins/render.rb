@@ -41,5 +41,5 @@ module Jekyll
 
 end
 
-Liquid::Template.register_tag('render', Jekyll::RenderTag)
+Liquid::Template.register_tag('render_md', Jekyll::RenderTag)
 
