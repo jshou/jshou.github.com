@@ -3,8 +3,6 @@ title: Joshua Hou
 layout: default
 ---
 
-# Joshua Hou
-
 Joshua Hou is a computational linguist and software developer in Seattle,
 Washington. Graduating from the University of Washington with a Masters in
 computational linguistics, he now works at a stealth-mode software startup.
