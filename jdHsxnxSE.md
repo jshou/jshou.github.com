@@ -25,11 +25,11 @@ Building great products by writing elegant software with state-of-the-art natura
 ### Independent
 Software Engineer, Jul. 2011 - Present
 
-* Designed, implemented, and deployed Ruby on Rails app for managing product information and creating product order
-quotations for Ziggity Systems, Inc.
+* Designed, implemented, and deployed a Ruby on Rails app for managing product information and creating product order
+quotations for Ziggity Systems, Inc, replacing an existing desktop application that ran only on Windows XP
 
 * Designed and implemented a Google Chrome extension called Sunglasses for tinting bright browser windows, available for
-download in the Chrome Web Store
+download in the Chrome Web Store, with over 700 users
 
 * Created and built SurvivalPhrases, an Android app for playing audio of survival phrases in different languages for
 travelers, available for download from the Google Play store
