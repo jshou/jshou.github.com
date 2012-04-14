@@ -22,13 +22,28 @@ Building great products by writing elegant software with state-of-the-art natura
 
 ## Experience
 
+### Independent
+Software Engineer, Jul. 2011 - Present
+
+* Designed, implemented, and deployed a Ruby on Rails app for managing product information and creating product order
+quotations for Ziggity Systems, Inc, replacing an existing desktop application that ran only on Windows XP
+
+* Designed and implemented a Google Chrome extension called Sunglasses for tinting bright browser windows, available for
+download in the Chrome Web Store, with over 700 users
+
+* Created and built SurvivalPhrases, an Android app for playing audio of survival phrases in different languages for
+travelers, available for download from the Google Play store
+
 ### Stealth-mode startup
 Software Engineer, May 2011 - Present
 
 * Designed, implemented, and maintained a distributed data processing system that crawled the web, identified relevant
 sources and automatically extracted structured data from semi-structured documents using Ruby, Rails, and Sinatra
+
 * Designed and implemented a web system for data entry workers to validate automatically extracted information
+
 * Managed deployment and operations of aforementioned systems with Chef
+
 * Contributed to Android client codebase, implementing several UI screens
 
 ### Kiha Software
@@ -37,7 +52,9 @@ Software Engineer, Sept. 2010 - Jan. 2011
 * Built and maintained statistical named entity recognition models using OpenNLP and Minorthird for a semantic services
 platform for mobile devices
 * Developed part-of-speech tagger, tokenizer, and phrase chunker for improving recognition
+
 * Feature engineering for improving named entity recognition models
+
 * Wrote Maven plugin for automating training and testing of statistical models and continuous integration with Hudson,
 streamlining the named entity recognition experimentation process
 
