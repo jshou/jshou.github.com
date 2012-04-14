@@ -1,5 +1,5 @@
 ---
-title: Joshua Hou
+title: homepage
 layout: default
 ---
 
