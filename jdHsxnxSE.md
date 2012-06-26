@@ -1,7 +1,9 @@
 ---
 title: resume
 layout: default
+published: false
 ---
+
 
 # Joshua S. Hou
 
@@ -34,7 +36,7 @@ download in the Chrome Web Store, with over 700 users
 * Created and built SurvivalPhrases, an Android app for playing audio of survival phrases in different languages for
 travelers, available for download from the Google Play store
 
-### Stealth-mode startup
+### Livesetar
 Software Engineer, May 2011 - Present
 
 * Designed, implemented, and maintained a distributed data processing system that crawled the web, identified relevant
@@ -124,3 +126,4 @@ B.A. - Linguistics, Sept 2006 - June 2008
   * Fluent in Mandarin and English
   * Intermediate knowledge of Japanese
   * Basic familiarity with Spanish and American Sign Language
+
