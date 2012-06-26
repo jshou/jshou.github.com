@@ -36,7 +36,7 @@ download in the Chrome Web Store, with over 700 users
 * Created and built SurvivalPhrases, an Android app for playing audio of survival phrases in different languages for
 travelers, available for download from the Google Play store
 
-### Livesetar
+### Livestar
 Software Engineer, May 2011 - Present
 
 * Designed, implemented, and maintained a distributed data processing system that crawled the web, identified relevant
