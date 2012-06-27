@@ -7,7 +7,7 @@ published: false
 
 # Joshua S. Hou
 
-Computational Linguist
+Software Engineer, Computational Linguist
 
 * 360-481-4415
 * joshuahou@gmail.com
