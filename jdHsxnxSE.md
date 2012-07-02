@@ -31,7 +31,7 @@ Software Engineer, Jul. 2011 - Present
 quotations for Ziggity Systems, Inc, replacing an existing desktop application that ran only on Windows XP
 
 * Designed and implemented a Google Chrome extension called Sunglasses for tinting bright browser windows, available for
-download in the Chrome Web Store, with over 700 users
+download in the Chrome Web Store, with over 1000 users
 
 * Created and built SurvivalPhrases, an Android app for playing audio of survival phrases in different languages for
 travelers, available for download from the Google Play store
