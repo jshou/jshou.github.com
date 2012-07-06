@@ -9,10 +9,7 @@ published: false
 
 Software Engineer, Computational Linguist
 
-* 360-481-4415
 * joshuahou@gmail.com
-* 4118 E McGilvra St, Apt 393
-* Seattle, WA 98112
 
 ---
 
