@@ -21,8 +21,11 @@ Building great products by writing elegant software with state-of-the-art natura
 
 ## Experience
 
+### Substantial
+Software Engineer, Aug 2012 - Present
+
 ### Independent
-Software Engineer, Jul. 2011 - Present
+Software Engineer, July 2011 - Present
 
 * Designed, implemented, and deployed a Ruby on Rails app for managing product information and creating product order
 quotations for Ziggity Systems, Inc, replacing an existing desktop application that ran only on Windows XP
@@ -34,7 +37,7 @@ download in the Chrome Web Store, with over 1000 users
 travelers, available for download from the Google Play store
 
 ### Livestar
-Software Engineer, May 2011 - Present
+Software Engineer, May 2011 - July 2012
 
 * Designed, implemented, and maintained a distributed data processing system that crawled the web, identified relevant
 sources and automatically extracted structured data from semi-structured documents using Ruby, Rails, and Sinatra
@@ -46,7 +49,7 @@ sources and automatically extracted structured data from semi-structured documen
 * Contributed to Android client codebase, implementing several UI screens
 
 ### Kiha Software
-Software Engineer, Sept. 2010 - Jan. 2011
+Software Engineer, September 2010 - January 2011
 
 * Built and maintained statistical named entity recognition models using OpenNLP and Minorthird for a semantic services
 platform for mobile devices
@@ -58,14 +61,14 @@ platform for mobile devices
 streamlining the named entity recognition experimentation process
 
 ### Graduate Institute of Applied Linguistics
-Research Intern, June 2009 - Sept. 2009
+Research Intern, June 2009 - September 2009
 
 * As part of the Open Language Archives Community project, developed rule-based and machine learning classifiers in
 MALLET and NLTK for identifying web-crawled library records as language-related and identifying the subject language of
 language-related records
 
 ### Logos Bible Software
-Software Development Engineer Intern - Design and Editorial, July 2008 - Sept. 2008
+Software Development Engineer Intern - Design and Editorial, July 2008 - September 2008
 
 * Improved the Libronix Controlled Vocabulary, the flagship product's controlled vocabulary, with data mining and
 processing from multiple sources using Python and Django
@@ -75,7 +78,7 @@ processing from multiple sources using Python and Django
 ## Education
 
 ### University of Washington
-M.A. - Computational Linguistics, Sept 2008 - August 2010
+M.A. - Computational Linguistics, September 2008 - August 2010
 
 * GPA: 3.88
 * Thesis: Automatic Tone-System Acquisition for Language Documentation in the Field
@@ -90,7 +93,7 @@ M.A. - Computational Linguistics, Sept 2008 - August 2010
 * Funding: National Science Foundation Graduate Research Fellowship
 
 ### University of Washington
-B.A. - Linguistics, Sept 2006 - June 2008
+B.A. - Linguistics, September 2006 - June 2008
 
 * GPA: 3.91
 * Relevant Coursework:
