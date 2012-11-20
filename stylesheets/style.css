@@ -6,6 +6,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Belleza, serif;
 }
 
+img {
+    width: 130px;
+    margin-top: 25px;
+}
+
 ul, li {
     list-style-type: none;
     margin: 0;
