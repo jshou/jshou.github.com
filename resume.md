@@ -9,7 +9,7 @@ published: false
 
 Software Engineer, Computational Linguist
 
-* joshuahou@gmail.com
+* me@joshuahou.com
 
 ---
 
