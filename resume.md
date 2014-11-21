@@ -1,7 +1,6 @@
 ---
 title: resume
 layout: default
-published: false
 ---
 
 
