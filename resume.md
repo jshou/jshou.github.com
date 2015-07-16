@@ -11,9 +11,11 @@ layout: default
 ---
 
 ## Experience
+### DomainTools
+Engineer, June 2015 - Present
 
 ### Substantial
-Software Engineer, Aug 2012 - Present
+Software Engineer, Aug 2012 - May 2015
 
 * Dungeon Highway (http://www.dungeonhighway.com/), Unity3d mobile game, Featured Best New Game in Apple App Store
 * Distiller (https://drinkdistiller.com/), Whiskey recommendation app, Rails, Spine.js
