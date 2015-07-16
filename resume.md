@@ -11,6 +11,7 @@ layout: default
 ---
 
 ## Experience
+
 ### DomainTools
 Engineer, June 2015 - Present
 
