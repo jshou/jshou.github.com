@@ -10,6 +10,8 @@ var calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
 var options = {
   key: mykey,
   maxEvents: 20,
+  orderBy: 'startTime',
+  singleEvents: true,
   timeMin: (new Date()).toISOString()
 };
 
