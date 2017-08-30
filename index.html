@@ -49,7 +49,7 @@ html {
 
   <script id="gig" type="x-tmpl-mustache">
     <li>
-    {{ band }} {{ start }} - {{ end }} ({{ venue }})
+    {{ band }} {{ date }} {{ start }} - {{ end }} ({{ venue }})
     </li>
   </script>
 
@@ -68,13 +68,13 @@ html {
     Mustache.parse(template);
 
     for (var i = 0; i < schedule.length; i++) {
-      // var start = moment(schedule[i].start.dateTime, 'dddd, MMM Do YYYY, h:mm A');
-      var start = schedule[i].start.dateTime;
-      var end = schedule[i].end.dateTime;
+      var date =  moment(schedule[i].start.dateTime).format('dddd, MMM Do YYYY');
+      var start = moment(schedule[i].start.dateTime).format('h:mmA');
+      var end = moment(schedule[i].end.dateTime).format('h:mmA');
       var band = schedule[i].summary;
       var venue = schedule[i].location;
 
-      var rendered = Mustache.render(template, {start: start, end: end, band: band, venue: venue});
+      var rendered = Mustache.render(template, {date: date, start: start, end: end, band: band, venue: venue});
       $('#gigs ul').append(rendered);
       console.log(band);
     }
