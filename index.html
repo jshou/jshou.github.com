@@ -49,7 +49,8 @@ html {
 
   <script id="gig" type="x-tmpl-mustache">
     <li>
-    {{ band }} {{ date }} {{ start }} - {{ end }} (<a href="{{ venueMap }}">map</a>)
+      <div class="date">{{ date }}, {{ start }} - {{ end }}</div>
+      <div class="event">{{ band }} (<a href="{{ venueMap }}">map</a>)</div>
     </li>
   </script>
 
