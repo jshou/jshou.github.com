@@ -2,8 +2,7 @@ var moment = require('moment');
 var Mustache = require('mustache');
 var $ = require('jquery');
 
-// var template = $('#gig');
-// Mustache.parse(template);
+var template = $('#gig').text();
 
 var mykey = 'AIzaSyCA9pV8ZJNnG2Gmerj71DF30noN8DTiQ9c';
 var calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
