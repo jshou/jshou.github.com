@@ -3,10 +3,14 @@
 
 <!-- Compiled and minified CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+<script src="scripts/mustache.min.js"></script>
+<script src="scripts/google-calendar-events.min.js"></script>
+<script src="scripts/moment.min.js"></script>
 
 <style>
 html {
@@ -37,6 +41,44 @@ html {
     </ul>
   </section>
 
+  <section id="gigs">
+    <h2>Gigs</h2>
+    <ul>
+    </ul>
+  </section>
+
+  <script id="gig" type="x-tmpl-mustache">
+    <li>
+    {{ band }} {{ start }} - {{ end }} ({{ venue }})
+    </li>
+  </script>
+
+  <script>
+    var mykey = 'AIzaSyCA9pV8ZJNnG2Gmerj71DF30noN8DTiQ9c';
+    var calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
+
+    var schedule = $.grabCalendar({
+      type: "detailedEvents",
+      clean_date: false,
+      maxEvents: 20,
+      upcoming: true,
+    });
+
+    var template = $('#gig').html();
+    Mustache.parse(template);
+
+    for (var i = 0; i < schedule.length; i++) {
+      // var start = moment(schedule[i].start.dateTime, 'dddd, MMM Do YYYY, h:mm A');
+      var start = schedule[i].start.dateTime;
+      var end = schedule[i].end.dateTime;
+      var band = schedule[i].summary;
+      var venue = schedule[i].location;
+
+      var rendered = Mustache.render(template, {start: start, end: end, band: band, venue: venue});
+      $('#gigs ul').append(rendered);
+      console.log(band);
+    }
+  </script>
 </div>
 </body>
 </html>
