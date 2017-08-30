@@ -3,5 +3,9 @@ module.exports = {
     output: {
         path: __dirname,
         filename: "bundle.js"
+    },
+    node: {
+        fs: "empty"
     }
+
 };
