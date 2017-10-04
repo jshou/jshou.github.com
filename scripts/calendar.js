@@ -1,9 +1,6 @@
 import React from 'react';
 import moment from 'moment';
 
-var $ = require('jquery');
-
-
 class GigCalendar extends React.Component {
   constructor(props) {
     super(props);
