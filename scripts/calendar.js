@@ -1,5 +1,6 @@
 import React from 'react';
 import moment from 'moment';
+import axios from 'axios';
 
 class GigCalendar extends React.Component {
   constructor(props) {
@@ -19,7 +20,10 @@ class GigCalendar extends React.Component {
     this.state = {gigs: []};
     var that = this;
 
-    $.get('https://www.googleapis.com/calendar/v3/calendars/' + calendarid + '/events?'+ $.param(options), function(data) {
+    axios.get('https://www.googleapis.com/calendar/v3/calendars/' + calendarid + '/events', {
+      params: options
+    }).then(function(response) {
+      var data = response.data;
       for (var i = 0; i < data.items.length; i++) {
         var date =  moment(data.items[i].start.dateTime).format('dddd, MMM Do YYYY');
         var start = moment(data.items[i].start.dateTime).format('h:mmA');
