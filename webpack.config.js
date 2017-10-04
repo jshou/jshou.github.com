@@ -1,11 +1,17 @@
 module.exports = {
-    entry: "./scripts/calendar.js",
+    entry: "./scripts/index.js",
     output: {
         path: __dirname,
         filename: "bundle.js"
     },
-    node: {
-        fs: "empty"
-    }
-
+    module: {
+      loaders: [{
+        test: /\.jsx?$/,
+        loader: 'babel-loader',
+        query: {
+          presets: ['es2015', 'react']
+        }
+      }]
+    },
+    devtool: 'source-map'
 };
