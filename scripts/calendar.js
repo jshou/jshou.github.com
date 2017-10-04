@@ -18,7 +18,6 @@ class GigCalendar extends React.Component {
     };
 
     this.state = {gigs: []};
-    var that = this;
 
     axios.get('https://www.googleapis.com/calendar/v3/calendars/' + calendarid + '/events', {
       params: options
@@ -33,10 +32,10 @@ class GigCalendar extends React.Component {
         var venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(venue);
 
         var gig = <Gig key={i} date={date} start={start} end={end} band={band} venueMap={venueMap}/>;
-        that.setState({gigs: that.state.gigs.concat([gig])});
+        this.setState({gigs: this.state.gigs.concat([gig])});
       }
 
-    });
+    }.bind(this));
   }
 
   render() {
