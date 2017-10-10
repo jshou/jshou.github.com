@@ -26061,9 +26061,8 @@ var GigCalendar = function (_React$Component) {
         var end = (0, _moment2.default)(data.items[i].end.dateTime).format('h:mmA');
         var band = data.items[i].summary;
         var venue = data.items[i].location;
-        var venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(venue);
 
-        var gig = _react2.default.createElement(Gig, { key: i, date: date, start: start, end: end, band: band, venueMap: venueMap });
+        var gig = _react2.default.createElement(Gig, { key: i, date: date, start: start, end: end, band: band, venue: venue });
         this.setState({ gigs: this.state.gigs.concat([gig]) });
       }
     }.bind(_this));
@@ -26103,8 +26102,24 @@ var Gig = function (_React$Component2) {
   }
 
   _createClass(Gig, [{
+    key: 'mapLink',
+    value: function mapLink() {
+      if (typeof this.props.venue == 'undefined') {
+        return '';
+      } else {
+        var venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(this.props.venue);
+        return ['(', _react2.default.createElement(
+          'a',
+          { key: '0', href: venueMap },
+          'map'
+        ), ')'];
+      }
+    }
+  }, {
     key: 'render',
     value: function render() {
+      var mapLink = this.mapLink();
+
       return _react2.default.createElement(
         'li',
         null,
@@ -26121,13 +26136,8 @@ var Gig = function (_React$Component2) {
           'div',
           { className: 'event' },
           this.props.band,
-          ' (',
-          _react2.default.createElement(
-            'a',
-            { href: '{ this.props.venueMap }' },
-            'map'
-          ),
-          ')'
+          ' ',
+          mapLink
         )
       );
     }
