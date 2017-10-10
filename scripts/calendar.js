@@ -29,9 +29,8 @@ class GigCalendar extends React.Component {
         var end = moment(data.items[i].end.dateTime).format('h:mmA');
         var band = data.items[i].summary;
         var venue = data.items[i].location;
-        var venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(venue);
 
-        var gig = <Gig key={i} date={date} start={start} end={end} band={band} venueMap={venueMap}/>;
+        var gig = <Gig key={i} date={date} start={start} end={end} band={band} venue={venue}/>;
         this.setState({gigs: this.state.gigs.concat([gig])});
       }
 
@@ -51,11 +50,26 @@ class GigCalendar extends React.Component {
 }
 
 class Gig extends React.Component {
+  mapLink() {
+    if (typeof(this.props.venue) == 'undefined') {
+      return '';
+    } else {
+      const venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(this.props.venue);
+      return [
+        '(',
+        <a key='0' href={ venueMap }>map</a>,
+        ')'
+      ];
+    }
+  }
+
   render() {
+    const mapLink = this.mapLink();
+
     return (
       <li>
         <div className="date">{ this.props.date }, { this.props.start } - { this.props.end }</div>
-        <div className="event">{ this.props.band } (<a href="{ this.props.venueMap }">map</a>)</div>
+        <div className="event">{ this.props.band } { mapLink }</div>
       </li>
     );
   }
