@@ -9,15 +9,14 @@ class GigCalendar extends React.Component {
     const mykey = 'AIzaSyCA9pV8ZJNnG2Gmerj71DF30noN8DTiQ9c';
     const calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
 
-    const d = new Date();
-    d.setDate(d.getDate() - 1); // yesterday
+    const yesterday = new Date(Date.now() - 864e5); // 864e5 == 86400000 == 24*60*60*1000
 
     const options = {
       key: mykey,
       maxResults: 20,
       orderBy: 'startTime',
       singleEvents: true,
-      timeMin: d.toISOString()
+      timeMin: yesterday.toISOString()
     };
 
     this.state = {gigs: []};

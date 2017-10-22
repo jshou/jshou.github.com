@@ -26438,15 +26438,14 @@ var GigCalendar = function (_React$Component) {
     var mykey = 'AIzaSyCA9pV8ZJNnG2Gmerj71DF30noN8DTiQ9c';
     var calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
 
-    var d = new Date();
-    d.setDate(d.getDate() - 1); // yesterday
+    var yesterday = new Date(Date.now() - 864e5); // 864e5 == 86400000 == 24*60*60*1000
 
     var options = {
       key: mykey,
       maxResults: 20,
       orderBy: 'startTime',
       singleEvents: true,
-      timeMin: d.toISOString()
+      timeMin: yesterday.toISOString()
     };
 
     _this.state = { gigs: [] };
