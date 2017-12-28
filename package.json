@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "moment": "^2.18.1",
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "webpack-merge": "^4.1.1"
   },
   "devDependencies": {
     "axios": "^0.16.2",
@@ -12,5 +13,9 @@
     "react-dom": "^16.0.0",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.7.1"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --port 9000 --config webpack/base.config.js",
+    "build": "node_modules/.bin/webpack --config webpack/prod.config.js"
   }
 }
