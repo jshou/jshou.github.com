@@ -9,6 +9,27 @@
 <style>
 html {
   font-family: Ubuntu;
+  padding: 40px 0;
+  color: #444;
+}
+
+@media screen and (max-width: 600px) {
+  .profile {
+    height: 250px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.5rem;
+}
+
+hr {
+  border: none;
+  background-color: #444;
+  height: 1px;
 }
 
 li {
@@ -18,26 +39,25 @@ li {
 #gigs .date {
   font-style: oblique;
 }
-
-section {
-  max-width: 640px;
-}
 </style>
 </head>
 
 <body>
 <div class="container">
-  <h2>Joshua Hou</h2>
+  <div class='row'>
+    <div class='col s12 m3 profile'>
+      <img class='responsive-img' src='profile.jpg'/>
+    </div>
+    <div class='col s12 m9'>
+      <h1>Joshua Hou</h1>
+      <p>Joshua Hou is a jazz pianist/accordionist based in Seattle, Washington. He
+        can be found singing and playing music in a variety of venues in the greater
+        Seattle area.</p>
+      <p>He can be contacted at <a href="mailto:me@joshuahou.com">me@joshuahou.com</a></p>
+    </div>
+  </div>
 
-  <section id="bio">
-    <h4>Bio</h4>
-    <p>Joshua Hou is a jazz pianist/accordionist based in Seattle, Washington. He
-    can be found singing and playing music in a variety of venues in the greater
-    Seattle area.</p>
-
-    <p>He can be contacted at <a href="mailto:me@joshuahou.com">me@joshuahou.com</a></p>
-  </section>
-
+  <hr/>
 
   <section id="projects">
     <h4>Projects</h4>
