@@ -42,7 +42,7 @@ class GigCalendar extends React.Component {
   render() {
     return (
       <div>
-        <h4>Gigs</h4>
+        <h4>Upcoming Gigs</h4>
         <ul>
           { this.state.gigs }
         </ul>
