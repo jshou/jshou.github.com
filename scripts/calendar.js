@@ -1,6 +1,7 @@
 import React from 'react';
 import moment from 'moment';
-import axios from 'axios';
+import { range, zip } from 'rxjs';
+import { getEvents } from 'gcal-events';
 
 class GigCalendar extends React.Component {
   constructor(props) {
@@ -9,34 +10,16 @@ class GigCalendar extends React.Component {
     const mykey = 'AIzaSyCA9pV8ZJNnG2Gmerj71DF30noN8DTiQ9c';
     const calendarid = 'nr5jftdjm9p0lg4pigi0dsld6c@group.calendar.google.com';
 
-    const yesterday = new Date(Date.now() - 864e5); // 864e5 == 86400000 == 24*60*60*1000
-
-    const options = {
-      key: mykey,
-      maxResults: 20,
-      orderBy: 'startTime',
-      singleEvents: true,
-      timeMin: yesterday.toISOString()
-    };
-
     this.state = {gigs: []};
 
-    axios.get('https://www.googleapis.com/calendar/v3/calendars/' + calendarid + '/events', {
-      params: options
-    }).then(function(response) {
-      const data = response.data;
-      for (var i = 0; i < data.items.length; i++) {
-        const date =  moment(data.items[i].start.dateTime).format('dddd, MMM Do YYYY');
-        const start = moment(data.items[i].start.dateTime).format('h:mmA');
-        const end = moment(data.items[i].end.dateTime).format('h:mmA');
-        const band = data.items[i].summary;
-        const venue = data.items[i].location;
-
-        const gig = <Gig key={i} date={date} start={start} end={end} band={band} venue={venue}/>;
-        this.setState({gigs: this.state.gigs.concat([gig])});
-      }
-
-    }.bind(this));
+    zip(range(1, 10000), getEvents(calendarid, mykey, { maxResults: 20 }), (i, eventData) => {
+      return <Gig key={ i } data={ eventData } />;
+    }).subscribe((gig) => {
+      this.setState({ gigs: this.state.gigs.concat([gig]) });
+    }, (error) => {
+      console.log(error);
+      this.setState({ calendarError: 'There was an error fetching the calendar. Please refresh to try again.' });
+    });
   }
 
   render() {
@@ -52,11 +35,22 @@ class GigCalendar extends React.Component {
 }
 
 class Gig extends React.Component {
-  mapLink() {
-    if (typeof(this.props.venue) == 'undefined') {
+  constructor(props) {
+    super(props);
+    const date = this.props.data.start.format('dddd, MMM Do YYYY');
+    const start = this.props.data.start.format('h:mmA');
+    const end = this.props.data.end.format('h:mmA');
+    const band = this.props.data.summary;
+    const venue = this.props.data.location;
+
+    this.state = { date, start, end, band, venue };
+  }
+
+  mapLink(venue) {
+    if (typeof(venue) == 'undefined') {
       return '';
     } else {
-      const venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(this.props.venue);
+      const venueMap = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(venue);
       return [
         '(',
         <a key='0' href={ venueMap }>map</a>,
@@ -66,12 +60,12 @@ class Gig extends React.Component {
   }
 
   render() {
-    const mapLink = this.mapLink();
+    const mapLink = this.mapLink(this.state.venue);
 
     return (
       <li>
-        <div className="date">{ this.props.date }, { this.props.start } - { this.props.end }</div>
-        <div className="event">{ this.props.band } { mapLink }</div>
+        <div className="date">{ this.state.date }, { this.state.start } - { this.state.end }</div>
+        <div className="event">{ this.state.band } { mapLink }</div>
       </li>
     );
   }

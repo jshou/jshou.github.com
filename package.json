@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "gcal-events": "jshou/gcal-events",
     "moment": "^2.18.1",
     "react": "^16.0.0",
+    "rxjs": "^6.3.3",
     "webpack-merge": "^4.1.1"
   },
   "devDependencies": {
