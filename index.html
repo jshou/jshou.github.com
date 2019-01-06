@@ -23,24 +23,45 @@ html {
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
 h1 {
-  margin-top: 0;
   font-size: 3.5rem;
 }
 
 hr {
   border: none;
-  background-color: #444;
+  background-color: #ccc;
   height: 1px;
+  margin-bottom: 20px;
 }
 
-li {
+.gigs ul {
+  padding-top: 10px;
+}
+
+.gigs li {
   margin-bottom: 20px;
 }
 
 #gigs .date {
   font-style: oblique;
 }
+
+.projects li {
+  padding: 10px 0 40px;
+}
+
+.projects li:first-child {
+  padding-top: 5px;
+}
+
+.projects p {
+  margin-top: 20px;
+}
+
 </style>
 </head>
 
@@ -62,23 +83,26 @@ li {
   <hr/>
 
   <div class='row'>
-    <section id="gigs" class='col m12 l5 push-l7'>
+    <section id="gigs" class='gigs col m12 l5 push-l7'>
     </section>
 
     <section id="projects" class='col m12 l7 pull-l5'>
       <h4>Projects</h4>
-      <ul>
+      <ul class='projects'>
         <li>
-          <h5><a href="http://howshortjazz.com">How Short</a></h5>
-          <p>Happy swing with sweet harmonies with Andy Short (guitar/vox) and Josh Hou (accordion/vox)</p>
+          <h5>How Short</h5>
+          <a href="https://howshortjazz.com">https://howshortjazz.com</a>
+          <p>Happy swing with sweet harmonies with Andy Short (guitar/vocals) and Josh Hou (accordion/vocals)</p>
           <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/282910873&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
         </li>
         <li>
-          <h5><a href="https://facebook.com/keyupband">Key Up</a></h5>
-          <p>Instrumental jazz with Ray Larsen (trumpet), Abbey Blackwell (bass), Josh Hou (accordion)</p>
+          <h5>Key Up</h5>
+          <p>Instrumental jazz with trumpet, accordion and bass.</p>
+          <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490563453&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
         </li>
         <li>
-          <h5><a href="https://soundcloud.com/jazztalksea">Jazztalk Seattle Podcast</a><br/></h5>
+          <h5>Jazztalk Seattle Podcast</h5>
+          <a href="https://soundcloud.com/jazztalksea">https://soundcloud.com/jazztalksea</a>
           <p>Max Holmberg (drums, percussion) and Josh Hou (accordion, keyboards) talk about jazz:
             records they're listening to, music they're working on, and stuff to check out in Seattle.</p>
           <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/373271636&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
