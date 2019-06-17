@@ -42,8 +42,9 @@ class Gig extends React.Component {
     const end = moment(this.props.data.end).tz('America/Los_Angeles').format('h:mmA');
     const band = this.props.data.summary;
     const venue = this.props.data.location;
+    const description = this.props.data.description;
 
-    this.state = { date, start, end, band, venue };
+    this.state = { date, start, end, band, venue, description };
   }
 
   mapLink(venue) {
@@ -66,6 +67,14 @@ class Gig extends React.Component {
       <li>
         <div className="date">{ this.state.date }, { this.state.start } - { this.state.end }</div>
         <div className="event">{ this.state.band } { mapLink }</div>
+        {
+          this.state.description &&
+            <div
+              className="description"
+              dangerouslySetInnerHTML={{ __html: this.state.description }}
+            >
+            </div>
+        }
       </li>
     );
   }
