@@ -1,6 +1,7 @@
 import React from 'react';
 import { range, zip } from 'rxjs';
 import { getEvents } from 'gcal-events';
+import moment from 'moment-timezone';
 
 class GigCalendar extends React.Component {
   constructor(props) {
@@ -36,9 +37,9 @@ class GigCalendar extends React.Component {
 class Gig extends React.Component {
   constructor(props) {
     super(props);
-    const date = this.props.data.start.tz('America/Los_Angeles').format('dddd, MMM Do YYYY');
-    const start = this.props.data.start.tz('America/Los_Angeles').format('h:mmA');
-    const end = this.props.data.end.tz('America/Los_Angeles').format('h:mmA');
+    const date = moment(this.props.data.start).tz('America/Los_Angeles').format('dddd, MMM Do YYYY');
+    const start = moment(this.props.data.start).tz('America/Los_Angeles').format('h:mmA');
+    const end = moment(this.props.data.end).tz('America/Los_Angeles').format('h:mmA');
     const band = this.props.data.summary;
     const venue = this.props.data.location;
 
