@@ -36,11 +36,15 @@ hr {
   border: none;
   background-color: #ccc;
   height: 1px;
-  margin-bottom: 20px;
+  margin: 30px 0;
 }
 
 #mc_embed_signup input {
   max-width: 300px;
+}
+
+.alert {
+  color: red;
 }
 
 .gigs ul {
@@ -49,6 +53,10 @@ hr {
 
 .gigs li {
   margin-bottom: 20px;
+}
+
+#gigs {
+  padding-top: 20px;
 }
 
 #gigs .date {
@@ -101,15 +109,25 @@ hr {
 <body>
 <div class="container">
   <div class='row'>
-    <div class='col s12 m3 profile'>
-      <img class='responsive-img' src='profile.jpg'/>
-    </div>
     <div class='col s12 m9'>
+    </div>
+  </div>
+
+  <div class='row'>
+    <section class='gigs col m12 l5 push-l7'>
+      <img src='profile.jpg'/>
+      <div id="gigs"></div>
+    </section>
+
+    <section id="projects" class='col m12 l7 pull-l5'>
       <h1>Joshua Hou</h1>
       <p>Joshua Hou is an accordionist and keyboardist based in Seattle, Washington. He
         can be found singing and playing various kinds of music in a variety of venues in the greater
         Seattle area.</p>
       <p>He can be contacted at <a href="mailto:me@joshuahou.com">me@joshuahou.com</a></p>
+
+      <h5><a class="alert" href="#recording">Newly released music!!!!</a></h5>
+      <iframe style="border: 0; width: 100%; height: 120px;margin: 10px 0;" src="https://bandcamp.com/EmbeddedPlayer/album=2586711056/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://howshort.bandcamp.com/album/skylark">Skylark by How Short</a></iframe>
 
       <!-- Begin Mailchimp Signup Form -->
       <div id="mc_embed_signup">
@@ -124,16 +142,9 @@ hr {
         </form>
       </div>
       <!--End mc_embed_signup-->
-    </div>
-  </div>
 
-  <hr/>
+      <hr/>
 
-  <div class='row'>
-    <section id="gigs" class='gigs col m12 l5 push-l7'>
-    </section>
-
-    <section id="projects" class='col m12 l7 pull-l5'>
       <h4>Projects</h4>
       <ul class='projects'>
         <li>
@@ -150,7 +161,7 @@ hr {
           <h5>How Short</h5>
           <a href="https://howshortjazz.com">https://howshortjazz.com</a>
           <p>Happy swing with sweet harmonies with Andy Short (guitar/vocals) and Josh Hou (accordion/vocals)</p>
-          <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/282910873&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
+          <iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2586711056/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://howshort.bandcamp.com/album/skylark">Skylark by How Short</a></iframe>
         </li>
         <li>
           <h5>Jazztalk Seattle Podcast</h5>
