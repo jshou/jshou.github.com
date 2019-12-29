@@ -2159,7 +2159,7 @@ gauge@~2.7.3:
 
 gcal-events@jshou/gcal-events:
   version "0.2.0"
-  resolved "https://codeload.github.com/jshou/gcal-events/tar.gz/46550421d017ebc67a7e2a9d287d192389390cea"
+  resolved "https://codeload.github.com/jshou/gcal-events/tar.gz/8c5ade3cea2df7ab2c766bc7ef476943b597af0c"
   dependencies:
     axios "^0.19.0"
     babel-preset-env "^1.7.0"
