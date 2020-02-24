@@ -13,7 +13,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "react-dom": "^16.8.4",
-    "webpack": "^4.29.6",
+    "webpack": "^4.41.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
   },
