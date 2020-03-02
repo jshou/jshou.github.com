@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "gcal-events": "jshou/gcal-events",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.28",
     "react": "^16.0.0",
     "rxjs": "^6.3.3",
     "webpack-merge": "^4.2.2"
