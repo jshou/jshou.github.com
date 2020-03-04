@@ -2,7 +2,7 @@
   "dependencies": {
     "gcal-events": "jshou/gcal-events",
     "moment-timezone": "^0.5.28",
-    "react": "^16.0.0",
+    "react": "^16.13.0",
     "rxjs": "^6.5.4",
     "webpack-merge": "^4.2.2"
   },
@@ -12,7 +12,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "react-dom": "^16.8.4",
+    "react-dom": "^16.13.0",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
