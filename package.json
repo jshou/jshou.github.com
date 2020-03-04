@@ -3,7 +3,7 @@
     "gcal-events": "jshou/gcal-events",
     "moment-timezone": "^0.5.28",
     "react": "^16.13.0",
-    "rxjs": "^6.3.3",
+    "rxjs": "^6.5.4",
     "webpack-merge": "^4.2.2"
   },
   "devDependencies": {
