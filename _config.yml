@@ -1,16 +1,14 @@
 # Site settings
-title: Your Title Here
+title: Josh Hou
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+url: "https://joshuahou.com" # the base hostname & protocol for your site
 lang: en_US
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
 markdown: kramdown
 sass:
-  indentWidth: 4
+  indentWidth: 2
   style: compressed
   precision: 10
 plugins:
