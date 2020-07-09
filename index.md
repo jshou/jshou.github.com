@@ -13,30 +13,10 @@ sections:
     text: >
       Josh Hou is an accordionist and keyboardist based in Seattle, Washington. He can be found singing and playing various kinds of music in a variety of venues in the greater Seattle area. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, Tiny Funk Band, and Jazztalk Seattle - a Seattle area jazz podcast.
 
-  - type: services.html
-    section_id: services
+  - type: listen.html
+    section_id: listen
     #background_style: bg-info
-    title: At Your Service
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+    title: listen
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
