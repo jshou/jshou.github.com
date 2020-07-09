@@ -3,8 +3,8 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: About
-  url: /#about
+- title: read
+  url: /#read
 - title: Services
   url: /#services
 - title: Members

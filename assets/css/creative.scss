@@ -1,6 +1,9 @@
 ---
 ---
 
+$bgpurple: rgba(4, 2, 36, .8);
+$bgabout: #41658a;
+
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Creative v6.0.1 (https://startbootstrap.com/themes/creative)
@@ -6070,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: $bgabout !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10047,8 +10050,6 @@ hr.light {
     color: #f4623a;
   }
 }
-
-$bgpurple: rgba(4, 2, 36, .8);
 
 header.masthead {
   padding-top: 10rem;
