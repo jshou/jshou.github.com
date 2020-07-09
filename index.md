@@ -22,4 +22,10 @@ sections:
     background_style: bg-dark text-white
     title: watch
 
+  - type: contact.html
+    section_id: contact
+    title: contact
+    text: >
+      Have questions about recording, taking a lesson or booking a show? Send me an email at [me@joshuahou.com](mailto:me@joshuahou.com){: target="_blank" rel="noopener noreferrer"}. You can also follow me on [instagram](https://instagram.com/accordionjosh) and [youtube](https://www.youtube.com/channel/UCfCH_4ZGc8Rnt0LlWr-WGVQ/) to keep up with new music coming out!
+
 ---
