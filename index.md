@@ -3,7 +3,7 @@ layout: home
 header:
   title: Josh Hou
   text: >
-    accordion, piano, keyboards
+    accordion, keyboards, composer
 
 sections:
   - type: read.html
@@ -11,53 +11,16 @@ sections:
     background_style: bg-primary
     title: read
     text: >
-      Josh Hou is an accordionist and keyboardist based in Seattle, Washington. He can be found singing and playing various kinds of music in a variety of venues in the greater Seattle area. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, Tiny Funk Band, and Jazztalk Seattle - a Seattle area jazz podcast.
+      Josh Hou is an accordionist, keyboardist, and composer based in Seattle, Washington. He can be found singing and playing various kinds of music in a variety of venues in the greater Seattle area. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, Tiny Funk Band, and Jazztalk Seattle - a Seattle area jazz podcast.
 
   - type: listen.html
     section_id: listen
-    #background_style: bg-info
     title: listen
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  - type: watch.html
+    section_id: watch
+    background_style: bg-dark text-white
+    title: watch
 
   - type: members.html
     section_id: members
