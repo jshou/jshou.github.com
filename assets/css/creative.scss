@@ -8,6 +8,11 @@ $bgabout: #9182A1;
   margin: 0 auto !important;
 }
 
+.somewhatskinny {
+  max-width: 800px;
+  margin: 0 auto !important;
+}
+
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Creative v6.0.1 (https://startbootstrap.com/themes/creative)
@@ -10125,4 +10130,17 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+.listen-embeds {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  iframe {
+    width: 350px;
+    height: 600px;
+    padding: 10px;
+  }
 }
