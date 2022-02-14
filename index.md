@@ -11,9 +11,9 @@ sections:
     background_style: bg-dark text-white
     title: read
     text: |
-      Josh Hou is an accordionist, keyboardist, and composer based in Seattle, Washington. He can be found singing and playing various kinds of music in a variety of venues in the greater Seattle area. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, Tiny Funk Band, and Jazztalk Seattle - a Seattle area jazz podcast.
+      Josh Hou is an accordionist based in Seattle. He started on piano but picked up the accordion in 2013 and has been making music with it ever since. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, and Jazztalk Seattle - a Seattle area jazz podcast.
 
-      Feeling of Home is his latest record, listen to it [here](https://joshhou.bandcamp.com/album/feeling-of-home)! For press, the link to the EPK is [here](/assets/Feeling of Home EPK.pdf).
+      The Horn Bellows is his latest record, recorded and mixed with long-time collaborator and friend, Ray Larsen. Listen to it [here](https://joshandray.bandcamp.com/)! For press, the link to the EPK is [here](https://music.joshuahou.com/hornbellows_epk.pdf).
 
   - type: listen.html
     section_id: listen
