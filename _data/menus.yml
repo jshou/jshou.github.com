@@ -3,11 +3,11 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: read
-  url: /#read
-- title: listen
-  url: /#listen
-- title: watch
-  url: /#watch
+- title: bio
+  url: /#bio
+- title: music
+  url: /#music
+- title: video
+  url: /#video
 - title: contact
   url: /#contact
