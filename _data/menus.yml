@@ -5,6 +5,8 @@
 header:
 - title: bio
   url: /#bio
+- title: gigs
+  url: /#gigs
 - title: music
   url: /#music
 - title: video
