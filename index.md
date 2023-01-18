@@ -11,9 +11,12 @@ sections:
     background_style: bg-dark text-white
     title: bio
     text: |
-      Josh Hou is an accordionist based in Seattle. He started on piano but picked up the accordion in 2013 and has been making music with it ever since. His projects include: instrumental Chinese jazz, How Short - a swing band with vocal harmonies, and Jazztalk Seattle - a Seattle area jazz podcast.
+      Josh Hou is an accordionist, pianist, composer, and arranger based in Seattle. Having grown up in three countries (United States, China, Malaysia), his work reflects the multicultural sonorities of his upbringing and heritage, both in music and language. He has two records out as a solo bandleader: <em>Feeling of Home</em> (2020) and <em>Bilingualism</em> (2019).
 
-      The Horn Bellows is his latest record, recorded and mixed with long-time collaborator and friend, Ray Larsen. Listen to it [here](https://joshandray.bandcamp.com/)! For press, the link to the EPK is [here](https://music.joshuahou.com/hornbellows_epk.pdf).
+      His latest project is <em>The Horn Bellows</em> (2022), recorded and mixed with long-time collaborator and friend, Ray Larsen. Listen to it [here](https://joshandray.bandcamp.com/)! For press, the link to the EPK is [here](https://music.joshuahou.com/hornbellows_epk.pdf).
+
+      Josh, along with collaborator Max Holmberg, produced and hosted <em>Jazztalk Seattle</em>, a now discontinued monthly Seattle area jazz podcast that lasted for five years. He also continues to sing and play in <em>How Short</em>, a swing band co-led with guitarist Andy Short.
+
   - type: gigs.html
     section_id: gigs
     title: gigs
