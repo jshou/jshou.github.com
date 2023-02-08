@@ -3,13 +3,13 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: bio
+- title: bio &middot; 簡介
   url: /#bio
-- title: gigs
+- title: gigs &middot; 演出
   url: /#gigs
-- title: music
+- title: music &middot; 音樂
   url: /#music
-- title: video
+- title: video &middot; 視頻
   url: /#video
-- title: contact
+- title: contact &middot; 聯絡
   url: /#contact

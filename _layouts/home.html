@@ -9,7 +9,7 @@ layout: base
         <h1 class="text-uppercase text-white font-weight-bold">{{ page.header.title }}</h1>
       </div>
       <div class="col-lg-8 align-self-baseline">
-        <p class="text-white font-weight-light mb-5">{{ page.header.text }}</p>
+        <p class="text-white font-weight-light mb-5">{{ page.header.text | markdwonify }}</p>
         {% if page.header.action %}
         <a class="btn btn-primary btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{ page.header.action.label }}</a>
         {% endif %}
