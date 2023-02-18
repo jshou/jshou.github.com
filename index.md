@@ -20,11 +20,12 @@ sections:
 
       <br/>
 
-      侯守仁是一位住在美國西雅圖的手風琴手，鋼琴手，作曲家和編曲家。他既然在三個國家長大（美國、中國、馬來西亞），他的作品表達他成長的多元文化和聲音，包括語言和音樂。他帶領的樂隊有兩張專輯：「家感」（2020）和「雙語」（2019）。
+      侯守仁是一位在美國西雅圖的手風琴手，鋼琴手，作曲家和編曲家。他在三個國家長大的背景（美國、中國、馬來西亞）使他的作品表達了其成長文化的多元和傳承，包括多种的語言和融合的音樂。他独立執行並發行了兩張專輯：「家感」（2020）和「雙語」（2019）。
 
-      他最新的項目是「The Horn Bellows」（2022），是與長期合作者和朋友Ray Larsen一起錄製和混音的專輯。有興趣觀眾可以在[這裡](https://joshandray.bandcamp.com/)聽。記者可以到[這裡](https://music.joshuahou.com/hornbellows_epk.pdf)看EPK。
 
-      侯守仁和Max Holmberg製作與主持了一個現在已經停播的博客，Jazztalk Seattle，一個持續了五年的關於西雅圖爵士樂壇的每月博客係累。他也繼續在和吉他手Andy Short一起帶領的搖擺樂隊How Short唱歌和演奏。
+      他最新的項目「The Horn Bellows」（2022），是與長期合作者兼朋友Ray Larsen一起錄製和混音的專輯。有興趣的觀眾可以在[這裡](https://joshandray.bandcamp.com/)聽。感兴趣的記者可以到[這裡](https://music.joshuahou.com/hornbellows_epk.pdf)看EPK。
+
+      侯守仁和Max Holmberg曾製作並主持了一個現在已經停播的播客，Jazztalk Seattle，是一個持續了五年的關於西雅圖爵士樂壇的月更播客系列。他和吉他手Andy Short一起帶領了搖擺樂隊How Short， 至今他們還仍一起演唱和演奏。
 
   - type: gigs.html
     section_id: gigs
@@ -46,6 +47,6 @@ sections:
     text: |
       Have questions about recording, taking a lesson or booking a show? Send me an email at [me@joshuahou.com](mailto:me@joshuahou.com){: target="_blank" rel="noopener noreferrer"}. You can also follow me on [instagram](https://instagram.com/accordionjosh) and [youtube](https://www.youtube.com/channel/UCfCH_4ZGc8Rnt0LlWr-WGVQ/) to keep up with new music coming out!
 
-      有興趣錄音，學琴，或訂個演出嗎？可以通過我的郵箱地址聯繫：[me@joshuahou.com](mailto:me@joshuahou.com){: target="_blank" rel="noopener noreferrer"}。你也可以通過[instagram](https://instagram.com/accordionjosh)和[youtube](https://www.youtube.com/channel/UCfCH_4ZGc8Rnt0LlWr-WGVQ/)看我的任何音樂消息！
+      有需求錄音，學琴，或需要預訂演出嗎？可以通過我的郵箱地址聯繫我：[me@joshuahou.com](mailto:me@joshuahou.com){: target="_blank" rel="noopener noreferrer"}。你也可以通過[instagram](https://instagram.com/accordionjosh)和[youtube](https://www.youtube.com/channel/UCfCH_4ZGc8Rnt0LlWr-WGVQ/)看我最新的音樂消息！
 
 ---
