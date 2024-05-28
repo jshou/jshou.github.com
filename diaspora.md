@@ -4,72 +4,74 @@ layout: page
 background_image: /assets/img/accordion.jpg
 ---
 
-Wren’s Happy Day
-韌開心的一天
+### album cover
 
-Colorful Clouds Chasing the Moon
-彩雲追月
+### short description
+*Diaspora* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features arrangements of songs from his Chinese and Malaysian heritage, as well as new compositions that reflect on life here, in relationship and connection to diaspora.
 
-Blue and White Porcelain
-青花瓷
+### long description
 
-Double Dog
-狗狗
+### track list
+<ol>
+<li>Wren’s Happy Day<br/>
+韌開心的一天</li>
 
-Theme from the Butterfly Lovers
-梁祝
+<li>Colorful Clouds Chasing the Moon<br/>
+彩雲追月</li>
 
-Mostly of Distance
-多數是距離
+<li>Blue and White Porcelain<br/>
+青花瓷</li>
 
-Rasa Sayang
-啦莎莎揚
+<li>Double Dog<br/>
+狗狗</li>
 
-Eight
-八
+<li>Theme from the Butterfly Lovers<br/>
+梁祝</li>
 
-Last Minute
-最後一刻
+<li>Mostly of Distance<br/>
+多數是距離</li>
 
-Ye Lai Xiang
-夜來香
+<li>Rasa Sayang<br/>
+啦莎莎揚</li>
+
+<li>Eight<br/>
+八</li>
+
+<li>Last Minute<br/>
+最後一刻</li>
+
+<li>Ye Lai Xiang<br/>
+夜來香</li>
+</ol>
 
 
 ### personnel
+<ul>
+<li>josh hou (he/him) - accordion</li>
+<li>ray larsen (he/him) - trumpet, flugelhorn</li>
+<li>alex chuang (they/them) - cello</li>
+<li>kelsey mines (she/her) - bass</li>
+<li>tai taitano (he/him) - drums</li>
+<li>leanna keith (she/they) - flute (guest on Eight)</li>
+<li>brian bermudez (he/him) - tenor sax (guest on Last Minute)</li>
+</ul>
 
-josh hou - accordion
-
-ray larsen - trumpet, flugelhorn
-
-alex chuang - cello
-
-kelsey mines - bass
-
-tai taitano - drums
-
-leanna keith - flute (guest on Eight)
-
-brian bermudez - tenor sax (guest on Last Minute)
-
-
-
-ben lange - recording and mixing
-
-ross nyberg - mastering
-
-lori white - album design
+<ul>
+<li>ben lange (he/him) - recording and mixing</li>
+<li>josh hou - additional recording</li>
+<li>ross nyberg (he/him) - mastering</li>
+<li>lori white (she/her) - album design</li>
+</ul>
 
 
 ### writing credits
 
 All songs by Josh Hou, except:
 
-Colorful Clouds Chasing the Moon: Qing dynasty Cantonese melody
-
-Blue and White Porcelain: Jay Chou, Vincent Fang
-
-Theme from the Butterfly Lovers: He Zhanhao, Chen Gang
-
-Rasa Sayang: Malay folk song
-
-Ye Lai Xiang: Li Jinguang
+<ul>
+<li>Colorful Clouds Chasing the Moon: Qing dynasty Cantonese melody</li>
+<li>Blue and White Porcelain: Jay Chou, Vincent Fang</li>
+<li>Theme from the Butterfly Lovers: He Zhanhao, Chen Gang</li>
+<li>Rasa Sayang: Malay folk song</li>
+<li>Ye Lai Xiang: Li Jinguang</li>
+</ul>
