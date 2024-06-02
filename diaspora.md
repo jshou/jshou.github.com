@@ -7,9 +7,14 @@ background_image: /assets/img/accordion.jpg
 ### album cover
 
 ### short description
-*Diaspora* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features an expanded band, consisting of a frontline of Ray Larsen on trumpet and Alex Chuang on cello, backed by a rhythm section of Kelsey Mines on bass and Tai Taitano on drums. The music consists of songs from his Chinese and Malaysian heritage, as well as new compositions that reflect on life here, in relationship and connection to diaspora.
+*Diaspora (流散)* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features an expanded band, consisting of a frontline of Ray Larsen on trumpet and Alex Chuang on cello, backed by a rhythm section of Kelsey Mines on bass and Tai Taitano on drums. The music consists of songs from his Chinese and Malaysian heritage, as well as new compositions that reflect on life here, in relationship and connection to diaspora.
 
 ### long description
+*Diaspora (流散)* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features an expanded band, consisting of a frontline of Ray Larsen on trumpet and Alex Chuang on cello, backed by a rhythm section of Kelsey Mines on bass and Tai Taitano on drums.
+
+The music on the record features songs from Josh's Chinese and Malaysian heritage, reaching as far back as a Qing dynasty melody turned folk song like *Colorful Clouds Chasing the Moon (彩雲追月)*, to a theme from the *Butterfly Lovers Violin Concerto (梁祝)*, an instantly recognizable melody beloved by all corners of the Chinese diaspora, all the way to *Blue and White Porcelain (青花瓷)*, a ballad by Jay Chou, Taiwanese pop superstar. There is also *Rasa Sayang*, a Malay folk song he grew up hearing everywhere from his time in Malaysia.
+
+The record also explores life here in relationship and connection to diaspora with a series of new compositions, such as *Wren's Happy Day (韌開心的一天)*, written for his goddaughter Wren; and *Mostly of Distance (多數是距離)*, a piece commissioned by the Bushwick Book Club and inspired by a line from a poem in Jenny Xie's *The Rupture Tense*. *Eight (八)* was in commemoration of the eight lives lost in a racist murder spree in Atlanta in 2021.
 
 ### private soundcloud playlist
 
