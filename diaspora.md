@@ -4,6 +4,9 @@ layout: page
 background_image: /assets/img/accordion.jpg
 ---
 
+### presale link
+<a href="https://joshhou.bandcamp.com/album/diaspora">Presale here!</a>
+
 ### short description
 *Diaspora (流散)* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features an expanded band, consisting of a frontline of Ray Larsen on trumpet and Alex Chuang on cello, backed by a rhythm section of Kelsey Mines on bass and Tai Taitano on drums. The music consists of songs from his Chinese and Malaysian heritage, as well as new compositions that reflect on life here, in relationship and connection to diaspora.
 
@@ -11,9 +14,6 @@ background_image: /assets/img/accordion.jpg
 ![Image](/img/diaspora-cover.png){: width="250"}
 
 <a href="/img/diaspora-cover.png" download>Download image</a>
-
-### presale link
-<a href="https://joshhou.bandcamp.com/album/diaspora">Presale here!</a>
 
 ### long description
 *Diaspora (流散)* is accordionist Josh Hou's latest release and third album as a solo-bandleader. Continuing in the trajectory established by his first two records, he digs deeper into immigrant identity with a collection of music exploring the diasporic experience. The album features an expanded band, consisting of a frontline of Ray Larsen on trumpet and Alex Chuang on cello, backed by a rhythm section of Kelsey Mines on bass and Tai Taitano on drums.
