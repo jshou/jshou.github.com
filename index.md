@@ -12,7 +12,7 @@ sections:
     background_style: bg-dark text-white
     title: bio &middot; 簡介
     text: |
-      Josh Hou is an accordionist, pianist, composer, and arranger based in Seattle. Having grown up in three countries (United States, China, Malaysia), his work reflects the multicultural sonorities of his upbringing and heritage, both in music and language. He has two records out as a solo bandleader: <em>Feeling of Home</em> (2020) and <em>Bilingualism</em> (2019). His third, Diaspora, is set to release in August of 2024.
+      Josh Hou is an accordionist, pianist, composer, and arranger based in Seattle. Having grown up in three countries (United States, China, Malaysia), his work reflects the multicultural sonorities of his upbringing and heritage, both in music and language. He has three records out as a solo bandleader: <em>Diaspora</em> (2024), <em>Feeling of Home</em> (2020) and <em>Bilingualism</em> (2019).
 
       He also appears on <em>The Horn Bellows</em> (2022), recorded and mixed with long-time collaborator and friend, Ray Larsen. Listen to it [here](https://joshandray.bandcamp.com/)!
 
@@ -20,7 +20,7 @@ sections:
 
       <br/>
 
-      侯守仁是一位在美國西雅圖的手風琴手，鋼琴手，作曲家和編曲家。他在三個國家長大的背景（美國、中國、馬來西亞）使他的作品表達了其成長文化的多元和傳承，包括多种的語言和融合的音樂。他独立執行並發行了兩張專輯：「家感」（2020）和「雙語」（2019）。第三張「流散」2024年八月上架。
+      侯守仁是一位在美國西雅圖的手風琴手，鋼琴手，作曲家和編曲家。他在三個國家長大的背景（美國、中國、馬來西亞）使他的作品表達了其成長文化的多元和傳承，包括多种的語言和融合的音樂。他独立執行並發行了三張專輯：「流散」（2024），「家感」（2020）和「雙語」（2019）。第三張「流散」2024年八月上架。
 
 
       他也在「The Horn Bellows」（2022）出現，是與長期合作者兼朋友Ray Larsen一起錄製和混音的專輯。有興趣的觀眾可以在[這裡](https://joshandray.bandcamp.com/)聽。
