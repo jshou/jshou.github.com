@@ -8,7 +8,11 @@ background_image: /assets/img/accordion.jpg
 <a href="https://joshandray.bandcamp.com/album/bloom">Presale here!</a>
 
 ### short description
-Short description
+Seattle-based accordion and trumpet duo Josh and Ray present their second album, Bloom. It includes six new compositions, plus a handful of covers from their live-show favorites: an American popular song, a Mandopop song, and an arrangement of a famous Erik Satie piano piece.
+
+Following in the footsteps of their first album (The Horn Bellows), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
+
+Josh Hou (accordion) and Ray Larsen (trumpet) first met playing in the jazz ensembles of their college days. They lost touch for a decade, until they independently discovered an album by trumpeter Dave Douglas featuring accordionist Guy Klucevsek. Inspired by the uncommon instrument pairing, they met up to experiment, and the duo was born. Josh and Ray can be found venues, cafes and restaurants in Seattle.
 
 ### album cover
 ![Image](/img/bloom-cover.jpg){: width="250"}
@@ -16,7 +20,31 @@ Short description
 <a href="/img/bloom-cover.jpg" download>Download image</a>
 
 ### long description
-Long description
+Bloom is the second album from Seattle-based accordion and trumpet duo, Josh and Ray. This new collection of instrumental songs features six new compositions by the duo, plus a handful of covers from among their live-show favorites: an American popular song, a Mandopop song, and an arrangement of a famous Erik Satie piano piece.
+
+Following in the footsteps of their first album (The Horn Bellows), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
+
+Josh Hou (accordion) and Ray Larsen (trumpet) first met playing in the jazz ensembles of their college days. They lost touch for a decade, when they independently discovered the gorgeous album Charms of the Night Sky by trumpeter Dave Douglas featuring accordionist Guy Klucevsek. Inspired by the uncommon instrument pairing, they met up to experiment, and the duo was born.
+
+Bloom is the next evolution of their sound, featuring some of their most compelling tunes and the kind of unrestrained communication that comes from several more years of friendship and music-making.
+
+Early Days is a charming tribute to new beginnings.
+
+Forgotten Pumpkin is written for all the pumpkins left behind and ignored at the pumpkin patch every fall.
+
+Little Bug (Xiao Xiao Chong, 小小蟲) is a pop song from Mandopop superstar Khalil Fong (方大同), an apology to a bug.
+
+Gnossienne No. 1 is adapted from the famous piano piece by French composer Erik Satie.
+
+Rosanna’s Song was written for Josh’s wife, Rosanna.
+
+Iridescent started as an assignment Ray gave himself to write a song that would fit on half a page of music.
+
+Jimney was named after a squirrel that lived in Josh’s chimney.
+
+Flamingo is a rarely-played American popular song by Ted Grouya, and a longtime part of Josh and Ray’s live performances.
+
+No Hurry No Worry takes its name from a road sign that Ray saw in Bhutan, to be performed without hurry or worry.
 
 ### private soundcloud playlist
 
