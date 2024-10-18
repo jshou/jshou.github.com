@@ -19,8 +19,8 @@ background_image: /assets/img/accordion.jpg
 </p>
 
 ### release show details
-Friday Nov 1st, 2024 at Oxbow, 4:00-6:00pm
-This is part of a weekly jazz series that Ray books, and is the first album release on the series
+Friday Nov 1st, 2024 at Oxbow, 4:00-6:00pm<br/>
+This is part of a weekly jazz series that Ray books, and is the first album release on the series.
 
 ### mp3 downloads
 <a href="https://drive.google.com/file/d/1l6j42oPq5ZtJAczLz0xQC5YzJNf5Q-y1/view?usp=drive_link">Download mp3s here</a>
