@@ -14,6 +14,10 @@ background_image: /assets/img/accordion.jpg
 <p>
 <a href="https://joshuahou.com/">Josh Hou</a><br/>
 <a href="https://www.raymondlarsen.com/">Ray Larsen</a><br/>
+</p>
+
+### band photos
+<p>
 <a href="/assets/img/josh_and_ray_bw.jpg">Black and white band photo</a><br/>
 <a href="/assets/img/josh_and_ray_color.jpg">Color band photo</a><br/>
 </p>
