@@ -6,16 +6,16 @@ background_image: /assets/img/accordion.jpg
 
 ### bandcamp links
 <p>
-<a href="https://joshandray.bandcamp.com/album/bloom">Bloom pre-sale link here!</a></br>
+<a href="https://joshandray.bandcamp.com/album/bloom">Bloom pre-sale link here!</a><br/>
 <a href="https://joshandray.bandcamp.com/album/the-horn-bellows">First album: The Horn Bellows</a>
 </p>
 
 ### band bios
 <p>
-<a href="https://joshuahou.com/">Josh Hou</a></br>
-<a href="https://www.raymondlarsen.com/">Ray Larsen</a>
-<a href="/assets/img/josh_and_ray_bw.jpg">Black and white band photo</a>
-<a href="/assets/img/josh_and_ray_color.jpg">Color band photo</a>
+<a href="https://joshuahou.com/">Josh Hou</a><br/>
+<a href="https://www.raymondlarsen.com/">Ray Larsen</a><br/>
+<a href="/assets/img/josh_and_ray_bw.jpg">Black and white band photo</a><br/>
+<a href="/assets/img/josh_and_ray_color.jpg">Color band photo</a><br/>
 </p>
 
 ### release show details
