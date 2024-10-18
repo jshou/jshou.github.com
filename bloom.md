@@ -4,13 +4,25 @@ layout: page
 background_image: /assets/img/accordion.jpg
 ---
 
-### presale link
-<a href="https://joshandray.bandcamp.com/album/bloom">Presale here!</a>
+### bandcamp links
+<a href="https://joshandray.bandcamp.com/album/bloom">Bloom pre-sale link here!</a></br>
+<a href="https://joshandray.bandcamp.com/album/the-horn-bellows">First album: The Horn Bellows</a>
+
+### band bios
+<a href="https://joshuahou.com/">Josh Hou</a></br>
+<a href="https://www.raymondlarsen.com/">Ray Larsen</a>
+
+### release show details
+Friday Nov 1st, 2024 at Oxbow, 4:00-6:00pm
+This is part of a weekly jazz series that Ray books, and is the first album release on the series
+
+### mp3 downloads
+<a href="https://drive.google.com/file/d/1l6j42oPq5ZtJAczLz0xQC5YzJNf5Q-y1/view?usp=drive_link">Download mp3s here</a>
 
 ### short description
 Seattle-based accordion and trumpet duo Josh and Ray present their second album, Bloom. It includes six new compositions, plus a handful of covers from their live-show favorites: an American popular song, a Mandopop song, and an arrangement of a famous Erik Satie piano piece.
 
-Following in the footsteps of their first album (The Horn Bellows), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
+Following in the footsteps of their first album (<a href="https://joshandray.bandcamp.com/album/the-horn-bellows">The Horn Bellows</a>), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
 
 Josh Hou (accordion) and Ray Larsen (trumpet) first met playing in the jazz ensembles of their college days. They lost touch for a decade, until they independently discovered an album by trumpeter Dave Douglas featuring accordionist Guy Klucevsek. Inspired by the uncommon instrument pairing, they met up to experiment, and the duo was born. Josh and Ray can be found venues, cafes and restaurants in Seattle.
 
@@ -22,7 +34,7 @@ Josh Hou (accordion) and Ray Larsen (trumpet) first met playing in the jazz ense
 ### long description
 Bloom is the second album from Seattle-based accordion and trumpet duo, Josh and Ray. This new collection of instrumental songs features six new compositions by the duo, plus a handful of covers from among their live-show favorites: an American popular song, a Mandopop song, and an arrangement of a famous Erik Satie piano piece.
 
-Following in the footsteps of their first album (The Horn Bellows), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
+Following in the footsteps of their first album (<a href="https://joshandray.bandcamp.com/album/the-horn-bellows">The Horn Bellows</a>), Bloom was self-recorded, mixed and produced by Josh and Ray in Josh’s attic, thanks to their mutual love of audio production and shared impulse to acquire fun audio gear.
 
 Josh Hou (accordion) and Ray Larsen (trumpet) first met playing in the jazz ensembles of their college days. They lost touch for a decade, when they independently discovered the gorgeous album Charms of the Night Sky by trumpeter Dave Douglas featuring accordionist Guy Klucevsek. Inspired by the uncommon instrument pairing, they met up to experiment, and the duo was born.
 
