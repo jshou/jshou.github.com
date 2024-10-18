@@ -18,8 +18,8 @@ background_image: /assets/img/accordion.jpg
 
 ### band photos
 <p>
-<a href="/assets/josh_and_ray_bw.jpg">Black and white band photo</a><br/>
-<a href="/assets/josh_and_ray_color.jpg">Color band photo</a><br/>
+<a href="/img/josh_and_ray_bw.jpg">Black and white band photo</a><br/>
+<a href="/img/josh_and_ray_color.jpg">Color band photo</a><br/>
 </p>
 
 ### release show details
