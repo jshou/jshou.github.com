@@ -1,7 +1,11 @@
 .pagehead {
-  height: 15em !important;
   min-height: 15em !important;
+
+  @media only screen and (min-width: 600px) {
+    height: 15em !important;
+  }
 }
+
 .page-section-smaller {
   padding: 2rem 0;
 }
