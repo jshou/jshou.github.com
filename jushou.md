@@ -3,7 +3,7 @@ title: 举手
 layout: page
 background_image: url('/img/pg_lanterns.JPG')
 ---
-CLICK HERE 点这儿: <a href="https://recorder.google.com/5ae786ef-4ea6-4bc5-9f29-a8de4b9ec66e">quick and dirty recording 草稿录音</a>\
+CLICK HERE 点这儿: <a href="https://recorder.google.com/4ae786ef-4ea6-4bc5-9f29-a8de4b9ec66e">quick and dirty recording 草稿录音</a>\
 \
 <b>简体中文歌词</b>\
 \
