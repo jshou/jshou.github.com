@@ -41,6 +41,11 @@ sections:
     background_style: bg-dark text-white
     title: video &middot; 視頻
 
+  - type: press.html
+    section_id: press
+    title: press &middot; 報刊
+    background_style: bg-light
+
   - type: contact.html
     section_id: contact
     title: contact &middot; 聯絡
