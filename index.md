@@ -43,7 +43,7 @@ sections:
 
   - type: press.html
     section_id: press
-    title: press &middot; 報刊
+    title: press &middot; 樂評
     background_style: bg-light
 
   - type: contact.html
