@@ -16,6 +16,9 @@ background_image: /assets/img/accordion.jpg
 
 ### release show details
 Sunday Nov 30th, 2025 at Royal Room, 1:30pm doors, 2:30pm show<br/>
+<a href="https://www.strangertickets.com/events/170029169/good-luck-rabbits-ep-release-and-multilingual-reading">Ticket link</a>
+
+<a href="https://www.facebook.com/events/1805717323664171">Facebook event</a>
 
 ### bio 簡介
 <i>Good Luck Rabbits</i> is a Chinese songwriting duo comprised of composer Josh Hou (侯守仁) and lyricist Shuxuan Zhou (周舒璇), both based in Seattle. Their songs capture diasporic lives and dreams—the sweet, the heartbroken, the outrageous, and the suspenseful. The music spans styles and genres, yet remains firmly planted in the Mandarin pop tradition.
