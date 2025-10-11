@@ -44,3 +44,45 @@ background_image: url('/img/pg_lanterns.JPG')
 河水沖上岸烈日曬乾了鹹魚<br/>
 孤立的怨恨是我們這輩人的無助<br/>
 <br/>
+<b>暖風 Warm Wind</b><br/>
+<br/>
+Age sixteen, just finished freshman year<br/>
+Brought the girl I like to the seaside to celebrate<br/>
+So proud of my romantic skills<br/>
+<br/>
+A warm wind blows my loose school uniform<br/>
+Her surprise at the the heart-shaped cake makes me satisfied<br/>
+Until I remember, there’s no matches; how to light the candles?<br/>
+<br/>
+Afraid of being looked down upon<br/>
+Didn’t ask the men smoking right there for help<br/>
+Instead ran across the entire beach<br/>
+To the little shop across the road<br/>
+<br/>
+The lighter doesn’t light the candles<br/>
+There is only a big wind of dust in my face<br/>
+<br/>
+I can't even choose which college to attend after my graduation<br/>
+But I dream of the time of my youth being recorded like an epic movie<br/>
+Don’t have a protagonist’s courage to break through the norms of the world<br/>
+Narrowly defined success is the shackles of our generation<br/>
+<br/>
+Now thirty six, evaded layoffs<br/>
+Went with my wife’s social group on a hike<br/>
+Hot air brushes my face, so familiar it makes me want to cry<br/>
+<br/>
+A warm wind blows my thinning hair<br/>
+The nature of another town just like homeland, I’m in a daze<br/>
+Then I realize, that people in middle age also aren’t wiser<br/>
+<br/>
+Afraid of being looked down upon<br/>
+Don’t share my trauma and hardship with others<br/>
+Silently climbing the corporate ladder, but the glass I’m trapped under is so strong<br/>
+<br/>
+Can’t see the road that led me here<br/>
+There is only a big wind of dust in my face<br/>
+<br/>
+Internalized conservative views but have to pretend to be progressive<br/>
+Simply seeing a world where she soars without me makes me jealous<br/>
+River waters crash upon the shore, the sun dries the salted fish<br/>
+Isolated grudges are our generation’s helplessness<br/>
