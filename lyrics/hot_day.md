@@ -9,7 +9,7 @@ background_image: url('/img/pg_lanterns.JPG')
 炎熱的天福建麵的香甜<br/>
 捲簾店前朵頤榴蓮<br/>
 姊妹走遠清涼水粉的寓言<br/>
-故鄉五彩着墨沾染心間<br/>
+故鄉五彩著墨沾染心間<br/>
 <br/>
 炎熱的天八珍醋的酸甜<br/>
 舊墳新村交錯無間<br/>
