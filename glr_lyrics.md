@@ -5,9 +5,65 @@ background_image: url('/img/pg_lanterns.JPG')
 ---
 <style>
 body {text-align: center;}
-img {margin-bottom: 30px; margin-top: -50px;}
+img {margin-bottom: 20px; margin-top: -50px;}
+h3 { margin-top: 50px; }
+
+/* CSS */
+.button-3 {
+  appearance: none;
+  background-color: #2ea44f;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  // font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+.button-3:hover {
+  background-color: #2c974b;
+}
+
+.button-3:focus {
+  box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+  outline: none;
+}
+
+.button-3:disabled {
+  background-color: #94d3a2;
+  border-color: rgba(27, 31, 35, .1);
+  color: rgba(255, 255, 255, .8);
+  cursor: default;
+}
+
+.button-3:active {
+  background-color: #298e46;
+  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
 </style>
 ![Image](/img/goodluckrabbits-cover.jpg){: width="250" }
+
+<button class="button-3" onclick="window.location.href='https://goodluckrabbits.bandcamp.com'">賣完整專輯！buy the EP!</button>
+
 <h3 style="margin-bottom: 20px;">歌詞 Lyrics</h3>
 
 [炎熱的天 Hot Day](/lyrics/hot_day)<br/><br/>
