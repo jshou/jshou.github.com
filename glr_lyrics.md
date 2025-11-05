@@ -62,7 +62,7 @@ h3 { margin-top: 50px; }
 </style>
 ![Image](/img/goodluckrabbits-cover.jpg){: width="250" }
 
-<button class="button-3" onclick="window.location.href='https://goodluckrabbits.bandcamp.com'">賣完整專輯！buy the EP!</button>
+<button class="button-3" onclick="window.location.href='https://goodluckrabbits.bandcamp.com'">賣完整專輯！buy the EP! ($5)</button>
 
 <h3 style="margin-bottom: 20px;">歌詞 Lyrics</h3>
 
