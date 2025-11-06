@@ -33,7 +33,7 @@ background_image: url('/img/pg_lanterns.JPG')
 <br/>
 <b>炎熱的天 Hot Day</b><br/>
 <br/>
-A hot day, the sweet fragrance of <em>fujian mian</em><br/>
+A hot day, the sweet fragrance of <em>hokkien mee</em><br/>
 Relishing durian in front of a shop with a roll-up door<br/>
 She walks away, fables of cooling rice powder<br/>
 The resplendent colors of hometown dye the inside of my heart<br/>
