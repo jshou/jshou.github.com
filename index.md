@@ -14,7 +14,7 @@ sections:
     text: |
       Josh Hou is an accordionist, pianist, composer, and arranger based in Seattle. Having grown up in three countries (United States, China, Malaysia), his work reflects the multicultural sonorities of his upbringing and heritage, both in music and language. He has three records out as a solo bandleader: <em>Diaspora</em> (2024), <em>Feeling of Home</em> (2020) and <em>Bilingualism</em> (2019).
 
-      He has a Mandarin pop songwriting project with Shuxuan Zhou (周舒璇) called <em>Good Luck Rabbits</em> Their first EP is available [here](https://goodluckrabbits.bandcamp.com/), available in November 2025.
+      He has a Mandarin pop songwriting project with Shuxuan Zhou (周舒璇) called <em>Good Luck Rabbits</em> Their first EP is available [here](https://goodluckrabbits.bandcamp.com/). Buy tickaets for the November 30th release show [here](https://www.strangertickets.com/events/170029169/good-luck-rabbits-ep-release-and-multilingual-reading)!
 
       He also appears on <em>Bloom</em> (2024) and <em>The Horn Bellows</em> (2022), recorded and mixed with long-time collaborator and friend, Ray Larsen. Listen to it [here](https://joshandray.bandcamp.com/)!
 
