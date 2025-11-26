@@ -9,4 +9,4 @@ group :jekyll_plugins do
  gem "jekyll-seo-tag", "2.8.0"
 end
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
