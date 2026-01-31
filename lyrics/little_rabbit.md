@@ -28,15 +28,15 @@ background_image: url('/img/pg_lanterns.JPG')
 <br/>
 <b>小兔兔搖籃曲 Little Rabbit's Lullaby</b><br/>
 <br/>
-Dear one, is the blanket warm enough?<br/>
+Dear little one, is the blanket warm enough?<br/>
 Let little rabbit sleep with you<br/>
 <br/>
-Dear one, is the light too bright?<br/>
+Dear little one, is the light too bright?<br/>
 Let me gently cover your eyes<br/>
 <br/>
 This is a really bad dream<br/>
 We should apologize<br/>
-We shouldn't let you experience all of this<br/>
+We shouldn't let you experience any of this<br/>
 <br/>
 When you wake up from this dream<br/>
 Mom and dad will be by your side<br/>
