@@ -12,7 +12,7 @@ background_image: url('/img/pg_lanterns.JPG')
 让我轻轻盖上你的眼<br/>
 <br/>
 这是一场很坏的梦<br/>
-我們应该道歉<br/>
+我们应该道歉<br/>
 不该让你经历这一切<br/>
 <br/>
 当你从梦中醒来<br/>
