@@ -39,11 +39,11 @@ We should apologize<br/>
 We shouldn't let you experience any of this<br/>
 <br/>
 When you wake up from this dream<br/>
-Mom and dad will be by your side<br/>
+Mom and dad will be back by your side<br/>
 <br/>
 This is a really long dream<br/>
 Please close up your heart<br/>
 Don't remember anything in your dream<br/>
 <br/>
 When you wake up from this dream<br/>
-Mom and dad will be by your side<br/>
+Mom and dad will be back by your side<br/>
