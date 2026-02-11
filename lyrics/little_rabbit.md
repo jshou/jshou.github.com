@@ -1,5 +1,5 @@
 ---
-title: 小兔兔搖籃曲
+title: 小兔兔搖籃曲 Little Rabbit's Lullaby
 layout: lyric
 background_image: url('/img/pg_lanterns.JPG')
 ---
