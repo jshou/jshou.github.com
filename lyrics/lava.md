@@ -42,7 +42,7 @@ You are also facing me<br/>
 A volcano from my body bursts forth with lava<br/>
 Hoping that the day after you fall in love with me<br/>
 Is the end of the world<br/>
-Where everyone and us are perish together<br/>
+Where everyone and us perish together<br/>
 <br/>
 The trauma I am still experiencing<br/>
 To you it's already past<br/>
@@ -51,11 +51,11 @@ I am in love with you<br/>
 and your cockiness and sentimentality<br/>
 <br/>
 When I think of you<br/>
-All turns to light<br/>
+Everything becomes bright<br/>
 My doubts about fate all disappear<br/>
 Was the reason I fell in love with you<br/>
 Care and companionship<br/>
-Or from the basement loneliness in a foreign land?<br/>
+Or the loneliness in a basement of a foreign land?<br/>
 <br/>
 The trauma I am healing from<br/>
 You hide it away<br/>
