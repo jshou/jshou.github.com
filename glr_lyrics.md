@@ -62,18 +62,18 @@ h3 { margin-top: 50px; }
 </style>
 ![Image](/img/goodluckrabbits-cover.jpg){: width="250" }
 
-<button class="button-3" onclick="window.location.href='https://goodluckrabbits.bandcamp.com'">賣完整專輯！buy the EP! ($5)</button>
+<button class="button-3" onclick="window.location.href='https://goodluckrabbits.bandcamp.com'">完整專輯 - EP Link</button>
 
 <h3 style="margin-bottom: 20px;">歌詞 Lyrics</h3>
 
-[炎熱的天 Hot Day](/lyrics/hot_day)<br/><br/>
+<!-- [炎熱的天 Hot Day](/lyrics/hot_day)<br/><br/>
 [岩漿 Lava](/lyrics/lava)<br/><br/>
-[麻木 Numb](/lyrics/numb)<br/><br/>
+[麻木 Numb](/lyrics/numb)<br/><br/> -->
 [小兔兔搖籃曲 Little Rabbit's Lullaby](/lyrics/little_rabbit)<br/><br/>
-[小白船 Little White Boat](/lyrics/little_white_boat)<br/><br/>
+<!-- [小白船 Little White Boat](/lyrics/little_white_boat)<br/><br/>
 [一半 Half](/lyrics/half)<br/><br/>
 [這一刻我自由了 This Moment I am Free](/lyrics/free)<br/><br/>
-[雙語 Bilingual Baby](/lyrics/bilingual_baby)<br/><br/>
+[雙語 Bilingual Baby](/lyrics/bilingual_baby)<br/><br/> -->
 [舉手 Raised Fist](/lyrics/raised_fist)<br/><br/>
-[魚仔 Fish](/lyrics/fish)<br/><br/>
-[中國鬼故事 Chinese Ghost Story](/lyrics/chinese_ghost_story)<br/><br/>
+<!-- [魚仔 Fish](/lyrics/fish)<br/><br/>
+[中國鬼故事 Chinese Ghost Story](/lyrics/chinese_ghost_story)<br/><br/> -->
