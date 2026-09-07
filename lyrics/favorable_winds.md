@@ -6,7 +6,7 @@ background_image: url('/img/pg_lanterns.JPG')
 <b>順風歌</b><br/>
 <br/>
 你今天就要遠航了呀<br/>
-家裡的泥土井水戴上了嗎？<br/>
+家裡的井水泥土戴上了嗎？<br/>
 願你不忘故土飲水思源<br/>
 願你一帆風順安全渡洋<br/>
 <br/>
@@ -28,7 +28,7 @@ background_image: url('/img/pg_lanterns.JPG')
 <b>Song for Favorable Winds</b><br/>
 <br/>
 Today, you embark on a long voyage<br/>
-Do you have with you the soil and water from home?<br/>
+Do you have with you the well water and soil from home?<br/>
 May you never forget homeland and remember where you’re from<br/>
 May you the wind fill your sails to safely cross the ocean<br/>
 <br/>
