@@ -79,6 +79,7 @@ h3 { margin-top: 50px; }
 [老家鄉 Old Home Place](/lyrics/old_home_place)<br/><br/>
 [舉手 Raised Fist](/lyrics/raised_fist)<br/><br/>
 [順風歌 Song for Favorable Winds](/lyrics/favorable_winds)<br/><br/>
+[心尖 Tip of the Heart](/lyrics/tip_of_heart)<br/><br/>
 [這一刻我自由了 This Moment I am Free](/lyrics/free)<br/><br/>
 <!-- [El Pueblo Unido](/lyrics/el_pueblo)<br/><br/> -->
 [有你的回憶 Those Memories of You](/lyrics/those_memories)<br/><br/>
