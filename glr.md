@@ -4,21 +4,46 @@ layout: page
 background_image: /assets/img/accordion.jpg
 ---
 
-### bandcamp links
-<p>
-<a href="https://goodluckrabbits.bandcamp.com/">Good Luck Rabbits EP</a><br/>
-</p>
+<style>
+#credits {
+  scroll-margin-top: 100px;
+}
+</style>
 
-### band photos
-<p>
-<a href="/img/glr_band_photo.jpg">Band photo</a><br/>
-</p>
+### album details
+<ul>
+  <li>band name: 雙兔吉祥 good luck rabbits</li>
+  <li>album name: 雙兔吉祥 good luck rabbits</li>
+  <li>release date: Nov 18, 2025</li>
+  <li>band members listed in <a href="#credits">credits</a> section below</li>
+</ul>
 
-### release show details
-Sunday Nov 30th, 2025 at Royal Room, 1:30pm doors, 2:30pm show<br/>
-<a href="https://www.strangertickets.com/events/170029169/good-luck-rabbits-ep-release-and-multilingual-reading">Ticket link</a>
+### bandcamp streaming
+<iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=2518242870/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://goodluckrabbits.bandcamp.com/album/good-luck-rabbits">雙兔吉祥 good luck rabbits by 雙兔吉祥 good luck rabbits</a></iframe>
 
-<a href="https://www.facebook.com/events/1805717323664171">Facebook event</a>
+### download links
+##### wav downloads
+<a href="https://music.joshuahou.com/glr/01 炎熱的天 Hot Day.wav">01 炎熱的天 Hot Day.wav</a><br/>
+<a href="https://music.joshuahou.com/glr/02 中國鬼故事 Chinese Ghost Story.wav">02 中國鬼故事 Chinese Ghost Story.wav</a><br/>
+<a href="https://music.joshuahou.com/glr/03 雙語寶寶 Bilingual Baby.wav">03 雙語寶寶 Bilingual Baby.wav</a><br/>
+<br/>
+##### mp3 downloads
+<a href="https://music.joshuahou.com/glr/01 炎熱的天 Hot Day.mp3">01 炎熱的天 Hot Day.mp3</a><br/>
+<a href="https://music.joshuahou.com/glr/02 中國鬼故事 Chinese Ghost Story.mp3">02 中國鬼故事 Chinese Ghost Story.mp3</a><br/>
+<a href="https://music.joshuahou.com/glr/03 雙語寶寶 Bilingual Baby.mp3">03 雙語寶寶 Bilingual Baby.mp3</a><br/>
+
+##### lyrics
+[01 炎熱的天 Hot Day](/lyrics/hot_day)<br/>
+[02 中國鬼故事 Chinese Ghost Story](/lyrics/chinese_ghost_story)<br/>
+[03 雙語寶寶 Bilingual Baby](/lyrics/bilingual_baby)<br/>
+
+### photos
+![Image](/img/glr_band_photo.jpg){: width="250"}
+<br/>
+<a href="/img/glr_band_photo.jpg" download>Band photo</a><br/>
+![Image](/img/goodluckrabbits-cover.jpg){: width="250"}
+<br/>
+<a href="/img/goodluckrabbits-cover.jpg" download>Download album cover</a>
 
 ### bio 簡介
 <i>Good Luck Rabbits</i> is a Chinese songwriting duo comprised of composer Josh Hou (侯守仁) and lyricist Shuxuan Zhou (周舒璇), both based in Seattle. Their songs capture diasporic lives and dreams—the sweet, the heartbroken, the outrageous, and the suspenseful. The music spans styles and genres, yet remains firmly planted in the Mandarin pop tradition.
@@ -33,23 +58,7 @@ Shuxuan is the author of <i>From Forest Farm to Sawmill: Stories of Labor, Gende
 
 周舒璇著有《<i>From Forest Farm to Sawmill: Stories of Labor, Gender, and the Chinese State</i>》（华盛顿大学出版社，2024）。ta的短文与诗歌发表于"第六声"、Moss、Shoegaze等平台。ta使用中英双语创作，探索女性与酷儿群体的生命历程----在“之间”中的生活体验、建构与重构家园、酷儿化情欲、追寻个人与集体梦想。
 
-### album cover
-![Image](/img/goodluckrabbits-cover.jpg){: width="250"}
-
-<a href="/img/goodluckrabbits-cover.jpg" download>Download image</a>
-
-### private soundcloud playlist
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2022767508%3Fsecret_token%3Ds-USsersvRDfv&color=%233c6464&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/accordionjosh" title="Josh Hou" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Hou</a> · <a href="https://soundcloud.com/accordionjosh/sets/good-luck-rabbits/s-USsersvRDfv" title="good luck rabbits" target="_blank" style="color: #cccccc; text-decoration: none;">good luck rabbits</a></div>
-
-### track list
-<ol>
-<li>炎熱的天 Hot Day</li>
-<li>中國鬼故事 Chinese Ghost Story</li>
-<li>雙語寶寶 Bilingual Baby</li>
-</ol>
-
-
+<a name="credits"></a>
 ### credits
 所有歌曲由侯守仁（曲）和周舒璇（詞）創作<br/>
 <br/>
@@ -83,29 +92,28 @@ Ross Nyberg 母帶後期處理<br/>
 <br/>
 封面由陸林子鈺設計<br/>
 <br/>
-All songs by Josh Hou (music), Shuxuan Zhou (lyrics)<br/>
+All songs by Josh Hou (he/him, [pronunciation](/pronunciation/josh_hou.mp3), music), Shuxuan Zhou (she/they, [pronunciation](/pronunciation/shuxuan_zhou.mp3), lyrics)<br/>
 <br/>
-Josh Hou - vocals, piano, accordion<br/>
-Kelsey Mines - bass<br/>
-Tai Taitano - drums<br/>
-Andy Short - guitar<br/>
-Max Holmberg - percussion<br/>
+Josh Hou (he/him) - vocals, piano, accordion<br/>
+Kelsey Mines (she/her, [pronunciation](/pronunciation/kelsey_mines.mp3)) - bass<br/>
+Tai Taitano (he/him, [pronunciation](/pronunciation/tai_taitano.mp3)) - drums<br/>
+Andy Short (he/him, [pronunciation](/pronunciation/andy_short.mp3)) - guitar<br/>
+Max Holmberg (he/him, [pronunciation](/pronunciation/max_holmberg.mp3)) - percussion<br/>
 <br/>
 Additional musicians on Hot Day:<br/>
-Ray Larsen - trumpet<br/>
-Brian Bermudez - tenor saxophone<br/>
-Jerome Smith - trombone<br/>
-Rosanna Sze - harmony vocals<br/>
-Christie Zhao - harmony vocals<br/>
+Ray Larsen (he/him, [pronunciation](/pronunciation/ray_larsen.mp3)) - trumpet<br/>
+Brian Bermudez (he/him, [pronunciation](/pronunciation/brian_bermudez.mp3)) - tenor saxophone<br/>
+Jerome Smith (he/him, [pronunciation](/pronunciation/jerome_smith.mp3)) - trombone<br/>
+Rosanna Sze (she/they, [pronunciation](/pronunciation/rosanna_sze.mp3)) - harmony vocals<br/>
+Christie Zhao (she/her, [pronunciation](/pronunciation/christie_zhao.mp3)) - harmony vocals<br/>
 <br/>
 Additional musicians on Chinese Ghost Story:<br/>
-Alina To - Violin<br/>
-Kat Bula - Viola<br/>
-Alex Chuang - Cello, harmony vocals<br/>
-Josh Hou - harmony vocals<br/>
+Alina To (she/her, [pronunciation](/pronunciation/alina_to.mp3)) - Violin<br/>
+Kat Bula (she/they, [pronunciation](/pronunciation/kat_bula.mp3))- Viola<br/>
+Alex Chuang (they/them, [pronunciation](/pronunciation/alex_chuang.mp3)) - Cello, harmony vocals<br/>
 <br/>
 Additional musicians on Bilingual Baby:<br/>
-Alex Chuang - Cello<br/>
+Alex Chuang (they/them) - Cello<br/>
 <br/>
 Piano was recorded by Eric Padget and Rachael MacQuarrie at Recreational Psychoacoustics Lab<br/>
 All other music was recorded by Josh Hou, with special thanks to Brennan Carter for the use of his studio for horns, and David Salonen for the use of his drum mics.<br/>
