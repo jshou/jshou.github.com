@@ -4,12 +4,6 @@ layout: page
 background_image: /assets/img/accordion.jpg
 ---
 
-<style>
-#credits {
-  scroll-margin-top: 100px;
-}
-</style>
-
 ### album details
 <ul>
   <li>band name: 雙兔吉祥 good luck rabbits</li>
@@ -131,5 +125,9 @@ h3 {
 
 h3:first-child {
   margin-top: 0;
+}
+
+#credits {
+  scroll-margin-top: 100px;
 }
 </style>
